@@ -1,0 +1,662 @@
+{
+  "Stockholm C - Göteborg C": [
+    {
+      "station": "Stockholm C",
+      "arrival": null,
+      "departure": 0,
+      "platform": "16"
+    },
+    {
+      "station": "Sundbyberg",
+      "arrival": 8,
+      "departure": 8,
+      "platform": "2"
+    },
+    {
+      "station": "Bålsta",
+      "arrival": 28,
+      "departure": 28,
+      "platform": "1"
+    },
+    {
+      "station": "Enköping",
+      "arrival": 41,
+      "departure": 41,
+      "platform": "1"
+    },
+    {
+      "station": "Västerås C",
+      "arrival": 56,
+      "departure": 58,
+      "platform": "5"
+    },
+    {
+      "station": "Köping",
+      "arrival": 75,
+      "departure": 75,
+      "platform": "2"
+    },
+    {
+      "station": "Arboga",
+      "arrival": 86,
+      "departure": 87,
+      "platform": "1"
+    },
+    {
+      "station": "Örebro C",
+      "arrival": 108,
+      "departure": 118,
+      "platform": "1b"
+    },
+    {
+      "station": "Örebro Södra",
+      "arrival": 121,
+      "departure": 121,
+      "platform": "1"
+    },
+    {
+      "station": "Kumla",
+      "arrival": 131,
+      "departure": 131,
+      "platform": "2"
+    },
+    {
+      "station": "Hallsberg",
+      "arrival": 139,
+      "departure": 141,
+      "platform": "2"
+    },
+    {
+      "station": "Laxå",
+      "arrival": 156,
+      "departure": 156,
+      "platform": "1"
+    },
+    {
+      "station": "Töreboda",
+      "arrival": 175,
+      "departure": 175,
+      "platform": "1"
+    },
+    {
+      "station": "Skövde C",
+      "arrival": 204,
+      "departure": 205,
+      "platform": "2"
+    },
+    {
+      "station": "Falköping C",
+      "arrival": 220,
+      "departure": 221,
+      "platform": "2"
+    },
+    {
+      "station": "Herrljunga",
+      "arrival": 236,
+      "departure": 236,
+      "platform": "4"
+    },
+    {
+      "station": "Vårgårda",
+      "arrival": 247,
+      "departure": 247,
+      "platform": "3"
+    },
+    {
+      "station": "Alingsås",
+      "arrival": 258,
+      "departure": 258,
+      "platform": "4"
+    },
+    {
+      "station": "Göteborg C",
+      "arrival": 286,
+      "departure": null,
+      "platform": "7"
+    }
+  ],
+  "Göteborg C - Stockholm C": [
+    {
+      "station": "Göteborg C",
+      "arrival": null,
+      "departure": 0,
+      "platform": "7"
+    },
+    {
+      "station": "Alingsås",
+      "arrival": 27,
+      "departure": 27,
+      "platform": "1"
+    },
+    {
+      "station": "Vårgårda",
+      "arrival": 39,
+      "departure": 39,
+      "platform": "1"
+    },
+    {
+      "station": "Herrljunga",
+      "arrival": 49,
+      "departure": 50,
+      "platform": "5"
+    },
+    {
+      "station": "Falköping C",
+      "arrival": 65,
+      "departure": 66,
+      "platform": "3"
+    },
+    {
+      "station": "Skövde C",
+      "arrival": 80,
+      "departure": 81,
+      "platform": "1"
+    },
+    {
+      "station": "Töreboda",
+      "arrival": 97,
+      "departure": 97,
+      "platform": "3"
+    },
+    {
+      "station": "Laxå",
+      "arrival": 124,
+      "departure": 124,
+      "platform": "2"
+    },
+    {
+      "station": "Hallsberg",
+      "arrival": 139,
+      "departure": 141,
+      "platform": "5b"
+    },
+    {
+      "station": "Kumla",
+      "arrival": 148,
+      "departure": 148,
+      "platform": "1"
+    },
+    {
+      "station": "Örebro Södra",
+      "arrival": 159,
+      "departure": 159,
+      "platform": "2"
+    },
+    {
+      "station": "Örebro C",
+      "arrival": 162,
+      "departure": 178,
+      "platform": "4"
+    },
+    {
+      "station": "Arboga",
+      "arrival": 199,
+      "departure": 199,
+      "platform": "3"
+    },
+    {
+      "station": "Köping",
+      "arrival": 210,
+      "departure": 210,
+      "platform": "1"
+    },
+    {
+      "station": "Västerås C",
+      "arrival": 227,
+      "departure": 229,
+      "platform": "1a"
+    },
+    {
+      "station": "Enköping",
+      "arrival": 244,
+      "departure": 244,
+      "platform": "2"
+    },
+    {
+      "station": "Bålsta",
+      "arrival": 256,
+      "departure": 256,
+      "platform": "2"
+    },
+    {
+      "station": "Sundbyberg",
+      "arrival": 277,
+      "departure": 277,
+      "platform": "3"
+    },
+    {
+      "station": "Stockholm C",
+      "arrival": 285,
+      "departure": null,
+      "platform": "16"
+    }
+  ],
+  "Göteborg C - Hyllie": [
+    {
+      "station": "Göteborg C",
+      "arrival": null,
+      "departure": 0,
+      "platform": "14"
+    },
+    {
+      "station": "Mölndal",
+      "arrival": 8,
+      "departure": 8,
+      "platform": "2"
+    },
+    {
+      "station": "Kungsbacka",
+      "arrival": 19,
+      "departure": 19,
+      "platform": "2"
+    },
+    {
+      "station": "Åsa",
+      "arrival": 29,
+      "departure": 29,
+      "platform": "1"
+    },
+    {
+      "station": "Varberg",
+      "arrival": 46,
+      "departure": 48,
+      "platform": "3"
+    },
+    {
+      "station": "Falkenberg",
+      "arrival": 64,
+      "departure": 64,
+      "platform": "1"
+    },
+    {
+      "station": "Halmstad C",
+      "arrival": 83,
+      "departure": 84,
+      "platform": "3"
+    },
+    {
+      "station": "Laholm",
+      "arrival": 96,
+      "departure": 96,
+      "platform": "1"
+    },
+    {
+      "station": "Båstad",
+      "arrival": 102,
+      "departure": 102,
+      "platform": "4"
+    },
+    {
+      "station": "Ängelholm",
+      "arrival": 114,
+      "departure": 114,
+      "platform": "1"
+    },
+    {
+      "station": "Helsingborg C",
+      "arrival": 148,
+      "departure": 150,
+      "platform": "3"
+    },
+    {
+      "station": "Landskrona",
+      "arrival": 161,
+      "departure": 161,
+      "platform": "2"
+    },
+    {
+      "station": "Lund C",
+      "arrival": 177,
+      "departure": 179,
+      "platform": "1"
+    },
+    {
+      "station": "Malmö C",
+      "arrival": 191,
+      "departure": 193,
+      "platform": "2b"
+    },
+    {
+      "station": "Triangeln",
+      "arrival": 196,
+      "departure": 196,
+      "platform": "1"
+    },
+    {
+      "station": "Hyllie",
+      "arrival": 200,
+      "departure": null,
+      "platform": "1b"
+    }
+  ],
+  "Hyllie - Göteborg": [
+    {
+      "station": "Hyllie",
+      "arrival": null,
+      "departure": 0,
+      "platform": "4b"
+    },
+    {
+      "station": "Triangeln",
+      "arrival": 3,
+      "departure": 3,
+      "platform": "2"
+    },
+    {
+      "station": "Malmö C",
+      "arrival": 7,
+      "departure": 9,
+      "platform": "4a"
+    },
+    {
+      "station": "Lund C",
+      "arrival": 21,
+      "departure": 23,
+      "platform": "6"
+    },
+    {
+      "station": "Landskrona",
+      "arrival": 37,
+      "departure": 37,
+      "platform": "3"
+    },
+    {
+      "station": "Helsingborg C",
+      "arrival": 50,
+      "departure": 55,
+      "platform": "4"
+    },
+    {
+      "station": "Ängelholm",
+      "arrival": 85,
+      "departure": 85,
+      "platform": "1"
+    },
+    {
+      "station": "Båstad",
+      "arrival": 97,
+      "departure": 97,
+      "platform": "1"
+    },
+    {
+      "station": "Laholm",
+      "arrival": 103,
+      "departure": 103,
+      "platform": "4"
+    },
+    {
+      "station": "Halmstad C",
+      "arrival": 115,
+      "departure": 117,
+      "platform": "2"
+    },
+    {
+      "station": "Falkenberg",
+      "arrival": 134,
+      "departure": 134,
+      "platform": "4"
+    },
+    {
+      "station": "Varberg",
+      "arrival": 150,
+      "departure": 154,
+      "platform": "4"
+    },
+    {
+      "station": "Åsa",
+      "arrival": 171,
+      "departure": 171,
+      "platform": "2"
+    },
+    {
+      "station": "Kungsbacka",
+      "arrival": 180,
+      "departure": 180,
+      "platform": "3"
+    },
+    {
+      "station": "Mölndal",
+      "arrival": 191,
+      "departure": 191,
+      "platform": "3"
+    },
+    {
+      "station": "Göteborg C",
+      "arrival": 201,
+      "departure": null,
+      "platform": "14"
+    }
+  ],
+  "Helsingborg C - Trelleborg": [
+    {
+      "station": "Helsingborg C",
+      "arrival": null,
+      "departure": 0,
+      "platform": "2b"
+    },
+    {
+      "station": "Ramlösa",
+      "arrival": 2,
+      "departure": 3,
+      "platform": "1"
+    },
+    {
+      "station": "Rydebäck",
+      "arrival": 7,
+      "departure": 7,
+      "platform": "2"
+    },
+    {
+      "station": "Glumslöv",
+      "arrival": 10,
+      "departure": 10,
+      "platform": "2"
+    },
+    {
+      "station": "Landskrona",
+      "arrival": 15,
+      "departure": 15,
+      "platform": "2"
+    },
+    {
+      "station": "Häljarp",
+      "arrival": 19,
+      "departure": 19,
+      "platform": "2"
+    },
+    {
+      "station": "Dösjebro",
+      "arrival": 24,
+      "departure": 24,
+      "platform": "2"
+    },
+    {
+      "station": "Kävlinge",
+      "arrival": 29,
+      "departure": 29,
+      "platform": "4"
+    },
+    {
+      "station": "Gunnesbo",
+      "arrival": 34,
+      "departure": 34,
+      "platform": "1"
+    },
+    {
+      "station": "Lund C",
+      "arrival": 39,
+      "departure": 41,
+      "platform": "1"
+    },
+    {
+      "station": "Åkarp",
+      "arrival": 46,
+      "departure": 46,
+      "platform": "1"
+    },
+    {
+      "station": "Burlöv",
+      "arrival": 49,
+      "departure": 49,
+      "platform": "3"
+    },
+    {
+      "station": "Malmö C",
+      "arrival": 55,
+      "departure": 57,
+      "platform": "2b"
+    },
+    {
+      "station": "Triangeln",
+      "arrival": 60,
+      "departure": 60,
+      "platform": "1"
+    },
+    {
+      "station": "Hyllie",
+      "arrival": 64,
+      "departure": 65,
+      "platform": "2b"
+    },
+    {
+      "station": "Svågertorp / Malmö Syd",
+      "arrival": 68,
+      "departure": 68,
+      "platform": "2"
+    },
+    {
+      "station": "Västra Ingelstad",
+      "arrival": 75,
+      "departure": 75,
+      "platform": "1"
+    },
+    {
+      "station": "Östra Grevie",
+      "arrival": 78,
+      "departure": 78,
+      "platform": "2"
+    },
+    {
+      "station": "Trelleborg",
+      "arrival": 89,
+      "departure": null,
+      "platform": "2"
+    }
+  ],
+  "Trellborg - Helsingborg C": [
+    {
+      "station": "Trelleborg",
+      "arrival": null,
+      "departure": 0,
+      "platform": "2"
+    },
+    {
+      "station": "Östra Grevie",
+      "arrival": 9,
+      "departure": 9,
+      "platform": "1"
+    },
+    {
+      "station": "Västra Ingelstad",
+      "arrival": 12,
+      "departure": 12,
+      "platform": "1"
+    },
+    {
+      "station": "Svågertorp / Malmö Syd",
+      "arrival": 19,
+      "departure": 19,
+      "platform": "3"
+    },
+    {
+      "station": "Hyllie",
+      "arrival": 24,
+      "departure": 25,
+      "platform": "3a"
+    },
+    {
+      "station": "Triangeln",
+      "arrival": 28,
+      "departure": 28,
+      "platform": "2"
+    },
+    {
+      "station": "Malmö C",
+      "arrival": 32,
+      "departure": 34,
+      "platform": "3a"
+    },
+    {
+      "station": "Burlöv",
+      "arrival": 39,
+      "departure": 39,
+      "platform": "4"
+    },
+    {
+      "station": "Åkarp",
+      "arrival": 42,
+      "departure": 42,
+      "platform": "2"
+    },
+    {
+      "station": "Lund C",
+      "arrival": 48,
+      "departure": 50,
+      "platform": "6"
+    },
+    {
+      "station": "Gunnesbo",
+      "arrival": 53,
+      "departure": 53,
+      "platform": "2"
+    },
+    {
+      "station": "Kävlinge",
+      "arrival": 59,
+      "departure": 59,
+      "platform": "3"
+    },
+    {
+      "station": "Dösjebro",
+      "arrival": 64,
+      "departure": 64,
+      "platform": "1"
+    },
+    {
+      "station": "Häljarp",
+      "arrival": 69,
+      "departure": 69,
+      "platform": "1"
+    },
+    {
+      "station": "Landskrona",
+      "arrival": 73,
+      "departure": 73,
+      "platform": "3"
+    },
+    {
+      "station": "Glumslöv",
+      "arrival": 78,
+      "departure": 78,
+      "platform": "1"
+    },
+    {
+      "station": "Rydebäck",
+      "arrival": 81,
+      "departure": 81,
+      "platform": "1"
+    },
+    {
+      "station": "Ramlösa",
+      "arrival": 86,
+      "departure": 86,
+      "platform": "2"
+    },
+    {
+      "station": "Helsingborg C",
+      "arrival": 91,
+      "departure": null,
+      "platform": "2b"
+    }
+  ]
+}
