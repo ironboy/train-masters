@@ -1,0 +1,7 @@
+// Our own overrides of Bootstrap variables
+$body-bg:   black;
+$body-color: white;
+
+
+// Import the whole Bootstrap library
+@import "../../node_modules/bootstrap/scss/bootstrap";
